@@ -1,2 +1,3 @@
-# mybtc
-hold 100
+# mybtc  
+hold 100  
+726  
