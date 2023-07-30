@@ -1,6 +1,6 @@
 # mybtc  
-hold 100  
-729
+hold 100   btc
+730
 
 
 
